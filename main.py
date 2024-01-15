@@ -1,3 +1,10 @@
+# Author: Ahmed Raheem
+# Campus: Bath Spa Unviersity, RAK
+# Date created: 10th of January
+# Description: This program is a Quiz
+# using the tkinter library and the Open Trivia API.
+
+
 # Import the necessary modules and classes
 from question_model import Question
 from data import question_data
