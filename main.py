@@ -1,7 +1,8 @@
 # Name: Ahmed Raheem #
 # Campus: Bath Spa University, RAK #
 # Class: Creative Computing Year 2 Group 1 #
-# In this module we were asked to create a GUI using the APIs given in the Assessment Brief #
+
+# In this module we were asked to create a GUI application using the APIs given in the Assessment Brief #
 # I choose the Open Trivia API to create a quiz. My application name is Raquiz Trivia. It is a #
 # multi choice quiz with 10 questions to answer correctly. #
 
