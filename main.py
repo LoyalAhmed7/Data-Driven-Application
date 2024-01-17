@@ -6,7 +6,7 @@
 # I choose the Open Trivia API to create a quiz. My application name is Raquiz Trivia. It is a #
 # multi choice quiz with 10 questions to answer correctly. #
 
-
+import tkinter as tk
 from question_model import Question
 from quiz_data import question_data
 from quiz_brain import QuizBrain
